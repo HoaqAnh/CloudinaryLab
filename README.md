@@ -4,7 +4,7 @@
 
 ## Giới thiệu
 
-Đây là một dự án lab toàn diện được xây dựng để thử nghiệm và minh họa khả năng **upload, hiển thị, cập nhật và xóa (CRUD) file** sử dụng **Cloudinary** làm dịch vụ lưu trữ đám mây. Backend được phát triển bằng **ASP.NET Core API**, trong khi frontend sử dụng **React, TypeScript và Vite**, mang đến trải nghiệm người dùng tương tác để quản lý hình ảnh.
+Đây là một dự án lab được xây dựng để thử nghiệm và minh họa khả năng **upload, hiển thị file** sử dụng **Cloudinary** làm dịch vụ lưu trữ đám mây. Backend được phát triển bằng **ASP.NET Core API**, trong khi frontend sử dụng **React, TypeScript kết hợp Vite**, mang đến trải nghiệm người dùng tương tác để quản lý hình ảnh.
 
 Dự án này là một tài nguyên tuyệt vời cho những ai muốn tìm hiểu về cách tích hợp Cloudinary vào ứng dụng web của mình với công nghệ .NET và React hiện đại.
 
