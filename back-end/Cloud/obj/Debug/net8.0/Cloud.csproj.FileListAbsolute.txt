@@ -1,0 +1,144 @@
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\bin\Debug\net8.0\appsettings.json
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\bin\Debug\net8.0\Cloud.exe
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\bin\Debug\net8.0\Cloud.deps.json
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\bin\Debug\net8.0\Cloud.runtimeconfig.json
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\bin\Debug\net8.0\Cloud.dll
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\bin\Debug\net8.0\Cloud.pdb
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\obj\Debug\net8.0\Cloud.csproj.AssemblyReference.cache
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\obj\Debug\net8.0\Cloud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\obj\Debug\net8.0\Cloud.AssemblyInfoInputs.cache
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\obj\Debug\net8.0\Cloud.AssemblyInfo.cs
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\obj\Debug\net8.0\Cloud.csproj.CoreCompileInputs.cache
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\obj\Debug\net8.0\Cloud.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\obj\Debug\net8.0\Cloud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\obj\Debug\net8.0\Cloud.sourcelink.json
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\obj\Debug\net8.0\staticwebassets\msbuild.Cloud.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\obj\Debug\net8.0\staticwebassets\msbuild.build.Cloud.props
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cloud.props
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cloud.props
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\obj\Debug\net8.0\scopedcss\bundle\Cloud.styles.css
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\obj\Debug\net8.0\Cloud.csproj.Up2Date
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\obj\Debug\net8.0\Cloud.dll
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\obj\Debug\net8.0\refint\Cloud.dll
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\obj\Debug\net8.0\Cloud.pdb
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\obj\Debug\net8.0\Cloud.genruntimeconfig.cache
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\obj\Debug\net8.0\ref\Cloud.dll
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Users\xamth\OneDrive\Máy tính\Cloud\Cloud\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\bin\Debug\net8.0\appsettings.Development.json
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\bin\Debug\net8.0\appsettings.json
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\bin\Debug\net8.0\Cloud.exe
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\bin\Debug\net8.0\Cloud.deps.json
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\bin\Debug\net8.0\Cloud.runtimeconfig.json
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\bin\Debug\net8.0\Cloud.dll
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\bin\Debug\net8.0\Cloud.pdb
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\bin\Debug\net8.0\CloudinaryDotNet.dll
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\obj\Debug\net8.0\Cloud.csproj.AssemblyReference.cache
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\obj\Debug\net8.0\Cloud.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\obj\Debug\net8.0\Cloud.AssemblyInfoInputs.cache
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\obj\Debug\net8.0\Cloud.AssemblyInfo.cs
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\obj\Debug\net8.0\Cloud.csproj.CoreCompileInputs.cache
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\obj\Debug\net8.0\Cloud.MvcApplicationPartsAssemblyInfo.cs
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\obj\Debug\net8.0\Cloud.MvcApplicationPartsAssemblyInfo.cache
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\obj\Debug\net8.0\Cloud.sourcelink.json
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\obj\Debug\net8.0\staticwebassets.build.json
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\obj\Debug\net8.0\staticwebassets.development.json
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\obj\Debug\net8.0\staticwebassets\msbuild.Cloud.Microsoft.AspNetCore.StaticWebAssets.props
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\obj\Debug\net8.0\staticwebassets\msbuild.build.Cloud.props
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cloud.props
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cloud.props
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\obj\Debug\net8.0\staticwebassets.pack.json
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\obj\Debug\net8.0\scopedcss\bundle\Cloud.styles.css
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\obj\Debug\net8.0\Cloud.csproj.Up2Date
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\obj\Debug\net8.0\Cloud.dll
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\obj\Debug\net8.0\refint\Cloud.dll
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\obj\Debug\net8.0\Cloud.pdb
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\obj\Debug\net8.0\Cloud.genruntimeconfig.cache
+D:\User\Data\WebApp\Lab\CloudinaryLab\Cloud\Cloud\obj\Debug\net8.0\ref\Cloud.dll
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\appsettings.Development.json
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\appsettings.json
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\Cloud.staticwebassets.endpoints.json
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\Cloud.exe
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\Cloud.deps.json
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\Cloud.runtimeconfig.json
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\Cloud.dll
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\Cloud.pdb
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\CloudinaryDotNet.dll
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.csproj.AssemblyReference.cache
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.AssemblyInfoInputs.cache
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.AssemblyInfo.cs
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.csproj.CoreCompileInputs.cache
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.MvcApplicationPartsAssemblyInfo.cs
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.MvcApplicationPartsAssemblyInfo.cache
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.sourcelink.json
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\scopedcss\bundle\Cloud.styles.css
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\staticwebassets.build.json
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\staticwebassets.development.json
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\staticwebassets\msbuild.Cloud.Microsoft.AspNetCore.StaticWebAssets.props
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\staticwebassets\msbuild.Cloud.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\staticwebassets\msbuild.build.Cloud.props
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cloud.props
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cloud.props
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\staticwebassets.pack.json
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.csproj.Up2Date
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.dll
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\refint\Cloud.dll
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.pdb
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.genruntimeconfig.cache
+D:\LapTrinhWeb\ThuyetTrinh\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\ref\Cloud.dll
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\appsettings.Development.json
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\appsettings.json
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\Cloud.exe
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\Cloud.deps.json
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\Cloud.runtimeconfig.json
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\Cloud.dll
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\Cloud.pdb
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\CloudinaryDotNet.dll
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.csproj.AssemblyReference.cache
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.AssemblyInfoInputs.cache
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.AssemblyInfo.cs
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.csproj.CoreCompileInputs.cache
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.MvcApplicationPartsAssemblyInfo.cs
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.MvcApplicationPartsAssemblyInfo.cache
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.sourcelink.json
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\staticwebassets.build.json
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\staticwebassets.development.json
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\staticwebassets\msbuild.Cloud.Microsoft.AspNetCore.StaticWebAssets.props
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\staticwebassets\msbuild.build.Cloud.props
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cloud.props
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cloud.props
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\staticwebassets.pack.json
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\scopedcss\bundle\Cloud.styles.css
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.csproj.Up2Date
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.dll
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\refint\Cloud.dll
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.pdb
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\Cloud.genruntimeconfig.cache
+D:\User\Data\WebApp\Lab\CloudinaryLab\back-end\Cloud\obj\Debug\net8.0\ref\Cloud.dll

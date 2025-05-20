@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|d:\\user\\data\\webapp\\lab\\cloudinarylab\\back-end\\cloud\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|solutionrelative:cloud\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|d:\\user\\data\\webapp\\lab\\cloudinarylab\\back-end\\cloud\\controllers\\cloudinaryapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|solutionrelative:cloud\\controllers\\cloudinaryapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|d:\\user\\data\\webapp\\lab\\cloudinarylab\\back-end\\cloud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|solutionrelative:cloud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|d:\\user\\data\\webapp\\lab\\cloudinarylab\\back-end\\cloud\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|solutionrelative:cloud\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|d:\\user\\data\\webapp\\lab\\cloudinarylab\\back-end\\cloud\\service\\videoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|solutionrelative:cloud\\service\\videoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|d:\\user\\data\\webapp\\lab\\cloudinarylab\\back-end\\cloud\\service\\ivideoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|solutionrelative:cloud\\service\\ivideoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|d:\\user\\data\\webapp\\lab\\cloudinarylab\\back-end\\cloud\\service\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|solutionrelative:cloud\\service\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|d:\\user\\data\\webapp\\lab\\cloudinarylab\\back-end\\cloud\\cloud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|solutionrelative:cloud\\cloud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|d:\\user\\data\\webapp\\lab\\cloudinarylab\\back-end\\cloud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|solutionrelative:cloud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|d:\\user\\data\\webapp\\lab\\cloudinarylab\\back-end\\cloud\\service\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|solutionrelative:cloud\\service\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|d:\\user\\data\\webapp\\lab\\cloudinarylab\\back-end\\cloud\\service\\cloudinarysetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|solutionrelative:cloud\\service\\cloudinarysetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|d:\\user\\data\\webapp\\lab\\cloudinarylab\\back-end\\cloud\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D959DD3E-35F6-4243-BB2A-A294F2F585D5}|Cloud\\Cloud.csproj|solutionrelative:cloud\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VideoController.cs",
+              "DocumentMoniker": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\Controllers\\VideoController.cs",
+              "RelativeDocumentMoniker": "Cloud\\Controllers\\VideoController.cs",
+              "ToolTip": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\Controllers\\VideoController.cs",
+              "RelativeToolTip": "Cloud\\Controllers\\VideoController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:05:41.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VideoService.cs",
+              "DocumentMoniker": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\Service\\VideoService.cs",
+              "RelativeDocumentMoniker": "Cloud\\Service\\VideoService.cs",
+              "ToolTip": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\Service\\VideoService.cs",
+              "RelativeToolTip": "Cloud\\Service\\VideoService.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAmwP8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:43:21.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\Service\\ImageService.cs",
+              "RelativeDocumentMoniker": "Cloud\\Service\\ImageService.cs",
+              "ToolTip": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\Service\\ImageService.cs",
+              "RelativeToolTip": "Cloud\\Service\\ImageService.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAmwKEAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:07:40.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\Program.cs",
+              "RelativeDocumentMoniker": "Cloud\\Program.cs",
+              "ToolTip": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\Program.cs",
+              "RelativeToolTip": "Cloud\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:52:37.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\appsettings.json",
+              "RelativeDocumentMoniker": "Cloud\\appsettings.json",
+              "ToolTip": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\appsettings.json",
+              "RelativeToolTip": "Cloud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T14:59:35.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Cloud\\WeatherForecast.cs",
+              "ToolTip": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\WeatherForecast.cs",
+              "RelativeToolTip": "Cloud\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T16:16:41.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CloudinaryApiController.cs",
+              "DocumentMoniker": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\Controllers\\CloudinaryApiController.cs",
+              "RelativeDocumentMoniker": "Cloud\\Controllers\\CloudinaryApiController.cs",
+              "ToolTip": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\Controllers\\CloudinaryApiController.cs",
+              "RelativeToolTip": "Cloud\\Controllers\\CloudinaryApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T15:01:02.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVideoService.cs",
+              "DocumentMoniker": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\Service\\IVideoService.cs",
+              "RelativeDocumentMoniker": "Cloud\\Service\\IVideoService.cs",
+              "ToolTip": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\Service\\IVideoService.cs",
+              "RelativeToolTip": "Cloud\\Service\\IVideoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:33:37.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cloud.http",
+              "DocumentMoniker": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\Cloud.http",
+              "RelativeDocumentMoniker": "Cloud\\Cloud.http",
+              "ToolTip": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\Cloud.http",
+              "RelativeToolTip": "Cloud\\Cloud.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-20T18:46:56.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\Service\\IImageService.cs",
+              "RelativeDocumentMoniker": "Cloud\\Service\\IImageService.cs",
+              "ToolTip": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\Service\\IImageService.cs",
+              "RelativeToolTip": "Cloud\\Service\\IImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:57:16.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Cloud\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Cloud\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:51:44.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CloudinarySetting.cs",
+              "DocumentMoniker": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\Service\\CloudinarySetting.cs",
+              "RelativeDocumentMoniker": "Cloud\\Service\\CloudinarySetting.cs",
+              "ToolTip": "D:\\User\\Data\\WebApp\\Lab\\CloudinaryLab\\back-end\\Cloud\\Service\\CloudinarySetting.cs",
+              "RelativeToolTip": "Cloud\\Service\\CloudinarySetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:57:15.124Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
