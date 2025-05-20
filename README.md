@@ -74,7 +74,7 @@ Truy cập Dashboard Cloudinary của bạn để lấy Cloud Name, API Key và 
   - Di chuyển vào thư mục frontend của dự án
   - Tạo một file `.env` trong thư mục gốc của dự án frontend (nếu chưa có) và thêm đường dẫn API của backend:
     ```
-    VITE_API_BASE_URL=http://localhost:5000/api # Hoặc port mà API của bạn đang chạy
+    VITE_API_BASE_URL=http://localhost:5077/api # Hoặc port mà API của bạn đang chạy
     ```
 ### 3. Chạy Backend (ASP.NET Core API)
 
